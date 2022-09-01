@@ -1,0 +1,1 @@
+Shell scripting permissions exercises
