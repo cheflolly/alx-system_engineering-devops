@@ -9,6 +9,7 @@ This repository contains projects from all three categories of the command-line 
 ### The [cmdchallenge](https://cmdchallenge.com/) with 42 tasks
 
 Task 1: echo 'hello world'
+
 Task 2: pwd
 Task 3: ls
 Task 4: cat access.log
