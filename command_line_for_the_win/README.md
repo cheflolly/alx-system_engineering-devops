@@ -3,8 +3,11 @@
 Screenshots are attached for the [CMDCHALLENGE](https://cmdchallenge.com/).
 
 ## Solutions
+
 This repository contains projects from all three categories of the command-line challenge:
-- The [cmdchallenge](https://cmdchallenge.com/) with 42 tasks
+
+### The [cmdchallenge](https://cmdchallenge.com/) with 42 tasks
+
 Task 1: echo 'hello world'
 Task 2: pwd
 Task 3: ls
@@ -43,7 +46,7 @@ Task
 Task
 Task
 
-- The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with 5 tasks
+### The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with 5 tasks
 
-- and The [12days.cmdchallenge](https://12days.cmdchallenge.com/) with 12 tasks
+### The [12days.cmdchallenge](https://12days.cmdchallenge.com/) with 12 tasks
 
