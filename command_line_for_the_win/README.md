@@ -34,15 +34,15 @@ Task 12: find . -name '*.doc' -delete
 
 Task 13: grep 'GET' ./access.log
 
-Task 14:
+Task 14: grep -l ‘500’ *
 
-Task 15:
+Task 15: find . -name "access.log*"
 
-Task 16:
+Task 16: grep -rh 500
 
-Task 17:
+Task 17: grep -ro ^[0-9.]*
 
-Task 18:
+Task 18: find . -type f | wc -l
 
 Task 19:
 
@@ -61,20 +61,6 @@ Task 25:
 Task 26:
 
 Task 27:
-
-Task 28:
-
-Task
-
-Task
-
-Task
-Task
-Task
-Task
-Task
-Task
-Task
 
 ### The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with 5 tasks
 
