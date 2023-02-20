@@ -44,23 +44,23 @@ Task 17: grep -ro ^[0-9.]*
 
 Task 18: find . -type f | wc -l
 
-Task 19:
+Task 19: sort access.log
 
-Task 20:
+Task 20: grep GET access.log | wc -l
 
-Task 21:
+Task 21: cat split-me.txt | tr ";" "\n"
 
-Task 22:
+Task 22: echo {1..100}
 
-Task 23:
+Task 23: sed -i “challenges are difficult/d” **/*.
 
-Task 24:
+Task 24: jq -s add sum-me.txt
 
-Task 25:
+Task 25: find . -type f -printf "%f\n"
 
-Task 26:
+Task 26: mv * .*
 
-Task 27:
+Task 27: ls | tr ' ' '.'
 
 ### The [oops.cmdchallenge](https://oops.cmdchallenge.com/) with 5 tasks
 
